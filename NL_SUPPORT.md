@@ -4,6 +4,11 @@
 Uw bezoeken worden alleen op uw toestel opgeslagen en worden niet online opgeslagen. Er heeft verder niemand anders toegang tot uw bezoeken.
 
 
+**Kan ik een bezoek aanpassen?**
+
+Jazeker! Dit kan door op het bezoek te klikken op het overzicht en dan op de pen rechtsboven op het scherm. Klik op het vinkje om uw aanpassingen op te slaan, of op het pijltje om uw aanpassingen weg te gooien.
+
+
 **Kan ik een bezoek verwijderen?**
 
 Jazeker! Dit kan door het bezoek naar links te swipen op het overzicht. Of door op het bezoek te klikken en deze aan te passen, daar ziet u een knop om het bezoek te verwijderen.
