@@ -4,6 +4,11 @@
 Your visits are only saved on your device and are not stored online. Nobody else can access your visits.
 
 
+**Can I edit a visit?**
+
+Yes! You can do this by tapping on the visit on the overview, and then tapping on the pen in the top right corner. Tap the checkmark to save your changes, or on the arrow to discard your changes.
+
+
 **Can I remove a visit?**
 
 Yes! You can do this by swiping the visit to the left on the overview. Or by clicking on the visit and editing it, there you will see a button to remove the visit.
