@@ -29,6 +29,11 @@ Op dit moment is het niet mogelijk om jouw bezoeken snel over te zetten naar een
 Als je de app verwijdert, verwijder je ook jouw bezoeken. Wanneer je de app opnieuw installeert zal je opnieuw jouw bezoeken moeten toevoegen.
 
 
+**Hoe kan ik mijn privacy instellingen aanpassen?**
+
+In het menu staat een optie om jouw privacy instellingen aan te passen.
+
+
 **Ik ben een fout in de app tegengekomen of ik heb een idee voor een nieuwe functionaliteit, waar kan ik deze melden?**
 
 Deze kan je emailen naar dev.esmee.kluijtmans@gmail.com.
