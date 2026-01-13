@@ -16,7 +16,7 @@ Yes! You can do this by swiping the visit to the left on the overview. Or by cli
 
 **How can I easily search for a specific visit?**
 
-At this moment there is no search functionality in the app. The visits are sorted by date, the most recent visit is at the top.
+You can search by show in the 'Search' tab. This will show the dates as well, allowing you to easily narrow down which visit you are looking for.
 
 
 **How can I transfer my visits to another device?**
