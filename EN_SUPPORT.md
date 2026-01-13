@@ -29,6 +29,11 @@ At this moment it is not possible to easily transfer your visits to another devi
 When you delete the app all your visits are deleted as well. When you reinstall the app you will have to manually add your visits again.
 
 
+**How can I change my privacy settings?**
+
+In the menu is an option to change your privacy settings.
+
+
 **I found a bug in the app or I have an idea for a new functionality. Where can I report these?**
 
 You can email these to dev.esmee.kluijtmans@gmail.com.
