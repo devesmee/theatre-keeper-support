@@ -16,7 +16,7 @@ Jazeker! Dit kan door het bezoek naar links te swipen op het overzicht. Of door 
 
 **Hoe kan ik makkelijk een specifiek bezoek opzoeken?**
 
-Op dit moment is er nog geen zoek functionaliteit in de app. Wel zijn de bezoeken gesorteerd op datum, het meest recente bezoek staat bovenaan.
+Je kunt zoeken op show onder 'Zoeken'. Hier worden ook datums getoond waardoor je makkelijk het specifieke bezoek kan opzoeken.
 
 
 **Hoe kan ik mijn bezoeken overzetten naar een ander toestel?**
