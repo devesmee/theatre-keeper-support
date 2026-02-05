@@ -14,9 +14,9 @@ Yes! You can do this by tapping on the visit on the overview, and then tapping o
 Yes! You can do this by swiping the visit to the left on the overview. Or by clicking on the visit and editing it, there you will see a button to remove the visit.
 
 
-**How can I easily search for a specific visit?**
+**How can I easily search for a specific visit / venue / performer?**
 
-You can search by show in the 'Search' tab. This will show the dates as well, allowing you to easily narrow down which visit you are looking for.
+You can search by visit, venue or performer in the 'Search' tab.
 
 
 **How can I transfer my visits to another device?**
