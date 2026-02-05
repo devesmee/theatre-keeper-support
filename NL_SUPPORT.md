@@ -14,9 +14,9 @@ Jazeker! Dit kan door op het bezoek te klikken op het overzicht en dan op de pen
 Jazeker! Dit kan door het bezoek naar links te swipen op het overzicht. Of door op het bezoek te klikken en deze aan te passen, daar zie je een knop om het bezoek te verwijderen.
 
 
-**Hoe kan ik makkelijk een specifiek bezoek opzoeken?**
+**Hoe kan ik makkelijk een bezoek / locatie / artiest opzoeken?**
 
-Je kunt zoeken op show onder 'Zoeken'. Hier worden ook datums getoond waardoor je makkelijk het specifieke bezoek kan opzoeken.
+Je kunt zoeken op bezoek, locatie of artiest onder 'Zoeken'.
 
 
 **Hoe kan ik mijn bezoeken overzetten naar een ander toestel?**
